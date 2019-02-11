@@ -2,7 +2,7 @@
 # List each machine only once per [group], even if it will host multiple sites.
 
 [production]
-admin.svmuller.com
+174.138.104.83
 
 [web]
-admin.svmuller.com
+174.138.104.83
